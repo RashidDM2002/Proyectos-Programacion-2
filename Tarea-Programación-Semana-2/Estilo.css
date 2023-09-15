@@ -1,0 +1,38 @@
+body{background-color: orange;}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+
+.Parrafo-inicial{
+    text-align: center;
+    font-size:1,5em;
+    font-weight: bold;
+}
+
+ul{
+   list-style-type: "🈲"; 
+
+}
+#Vegeta-page{background-color:cornflowerblue ;}
+#Trunks-page{
+
+    background-color: darkslateblue;
+}
+
+#piccolo-page{
+
+    background-color: darkseagreen;
+    
+}
+a{
+    color: black;
+
+}
+
+a:hover{
+    color: white;
+}
